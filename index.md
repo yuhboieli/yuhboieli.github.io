@@ -11,8 +11,8 @@ using namespace std;
 
 class Bnode {
 public:
-	string val;																/* Each of the pointers, pLeft and pRight, can either have a null value or point to a child node. Either or both of the pointers may be null -- */
-	Bnode* pLeft;															/* a null value indicating there is currently no child on that side. If both pointers are null, the node object is a "leaf" or terminus that currently has no children.*/
+	string val;															
+	Bnode* pLeft;		
 	Bnode* pRight;
 	Bnode(string s) { val = s; pLeft = pRight = nullptr; }
 };
@@ -64,16 +64,36 @@ void Btree::print_sub(Bnode* p) {
 }
 
 int Btree::size_of_subtree(Bnode* p) {
-
-	if (p) {									/* Check to see if there is a value, if so, we keep checking if anything is to the left of the node */
-		size_of_subtree(p->pLeft);				/* Once we checked all the nodes on the left, it will return to the previous node's function */
-		nSubtreeSize++;							/* If there is nothing on the left, we mark the value and check if there is a value on the right */
-		size_of_subtree(p->pRight);				/* If there is a value on the right, we will check if there is a value on the left. If not, we simply return to the previous node*/
+	if (p) {									
+		size_of_subtree(p->pLeft);				
+		nSubtreeSize++;							
+		size_of_subtree(p->pRight);				
 	}
 	return nSubtreeSize;
 }
 
-//This is a test. 
+int main() {
+	Btree my_tree;
+	string sPrompt = "Enter a name (ENTER when done): ";
+	string sInput = "";
+
+	while (true) {
+		cout << sPrompt;
+		getline(cin, sInput);
+		if (sInput.size() == 0) {
+			break;
+		}
+
+		my_tree.insert(sInput);
+	}
+
+	cout << "Here are the names, in order." << endl;
+	my_tree.print();
+	cout << my_tree.get_size_of_subtree() << endl;
+
+}
+
+// Elijah Lamoureux, More iterations to come.... 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
