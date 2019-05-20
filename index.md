@@ -1,5 +1,5 @@
 ## Here are some images of projects I developed 
-[Elijah Lamoureux's Profile] (https://elijahlamoureux.portfoliobox.net/)
+[Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
 You can use the [editor on GitHub](https://github.com/yuhboieli/yuhboieli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
