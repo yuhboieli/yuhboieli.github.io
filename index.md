@@ -29,8 +29,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Jekyll Themes
+### Jekyll Themes
 This theme is powered by [Jekyll](https://jekyllrb.com/)
 
-# Contact Me
+### Contact Me
 You can reach out to me through my email at elijahlamoureux@gmail.com. 
