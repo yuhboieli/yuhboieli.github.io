@@ -1,9 +1,9 @@
-## Here are some images of projects I developed 
+# Here are some images of projects I developed 
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
 ### Here is a simple Binary Tree used to sort names alphabetically. 
 
-<details><summary>View My Code</summary>
+<details><summary>**View My Code**</summary>
 <p>
 	
 ```c++
@@ -100,7 +100,6 @@ int main() {
 ```
 </p>
 </details>
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
