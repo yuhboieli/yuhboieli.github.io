@@ -3,7 +3,9 @@
 
 
 <details><summary>Here is a simple Binary Tree used to sort names alphabetically.</summary>
-	
+
+<br>
+
 ```c++
 #include <iostream>
 #include <string>
@@ -96,6 +98,9 @@ int main() {
 
 // Elijah Lamoureux, More iterations to come.... 
 ```
+
+<br>
+
 </details>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
