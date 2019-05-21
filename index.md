@@ -4,8 +4,7 @@
 
 ### Here is a simple Binary Tree used to sort names alphabetically. 
 
-<details><summary>View My Code</summary>	
-
+<details><summary>View My Code</summary>
 	
 ```c++
 #include <iostream>
@@ -99,9 +98,6 @@ int main() {
 
 // Elijah Lamoureux, More iterations to come.... 
 ```
-
-
-
 </details>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
