@@ -2,9 +2,7 @@
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
 
-### Here is a simple Binary Tree used to sort names alphabetically. 
-
-<details><summary>View My Code</summary>
+<details><summary>### Here is a simple Binary Tree used to sort names alphabetically. </summary>
 	
 ```c++
 #include <iostream>
