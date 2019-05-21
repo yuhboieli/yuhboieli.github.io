@@ -12,7 +12,7 @@ You can reach out to me through my email at **elijahlamoureux@gmail.com**.
 ### Here is a simple Binary Tree used to sort names alphabetically. 
 
 <details><summary>View My Code</summary>	
-<p>
+
 	
 ```c++
 #include <iostream>
@@ -108,7 +108,7 @@ int main() {
 ```
 
 
-</p>
+
 </details>
 
 
