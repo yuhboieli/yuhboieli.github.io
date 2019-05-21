@@ -3,7 +3,7 @@
 
 ### Here is a simple Binary Tree used to sort names alphabetically. 
 
-<details><summary>**View My Code**</summary>
+<details><summary>View My Code</summary>
 <p>
 	
 ```c++
@@ -98,8 +98,12 @@ int main() {
 
 // Elijah Lamoureux, More iterations to come.... 
 ```
+
+
 </p>
 </details>
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -107,4 +111,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 This theme is powered by [Jekyll](https://jekyllrb.com/)
 
 ### Contact Me
-You can reach out to me through my email at elijahlamoureux@gmail.com. 
+You can reach out to me through my email at **elijahlamoureux@gmail.com**. 
