@@ -9,6 +9,7 @@
   }
 </style>
 
+
 ### Here are some images of projects I developed 
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
@@ -23,5 +24,6 @@ This theme is powered by [Jekyll](https://jekyllrb.com/)
 
 ### Contact Me
 You can reach out to me through my email at **elijahlamoureux@gmail.com**. 
+{: .purple}
 
 
