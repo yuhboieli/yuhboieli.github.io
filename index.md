@@ -1,15 +1,3 @@
-<link rel="stylesheet" href="custom.CSS" />
-
-<style>
-  .purple {
-    color:inherit;
-  }
-  .purple:hover {
-    color:rgb(107,79,187);
-  }
-</style>
-
-
 ### Here are some images of projects I developed 
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
@@ -24,6 +12,5 @@ This theme is powered by [Jekyll](https://jekyllrb.com/)
 
 ### Contact Me
 You can reach out to me through my email at **elijahlamoureux@gmail.com**. 
-{: .purple}
 
 
