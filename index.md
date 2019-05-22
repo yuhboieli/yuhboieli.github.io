@@ -1,10 +1,8 @@
-# Here are some images of projects I developed 
+### Here are some images of projects I developed 
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
 
-<details><summary>Here is a simple Binary Tree used to sort names alphabetically.</summary>
-
-<br>
+### Here is a simple Binary Tree used to sort names alphabetically.
 
 ```c++
 #include <iostream>
@@ -98,10 +96,6 @@ int main() {
 
 // Elijah Lamoureux, More iterations to come.... 
 ```
-
-<br>
-
-</details>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
