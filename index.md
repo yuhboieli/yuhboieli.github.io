@@ -1,3 +1,14 @@
+<link rel="stylesheet" href="custom.CSS" />
+
+<style>
+  .purple {
+    color:inherit;
+  }
+  .purple:hover {
+    color:rgb(107,79,187);
+  }
+</style>
+
 ### Here are some images of projects I developed 
 [Elijah Lamoureux's Profile](https://elijahlamoureux.portfoliobox.net/)
 
