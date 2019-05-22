@@ -5,7 +5,7 @@
 [Binary Tree Application](https://yuhboieli.github.io/BinaryTreeApplication)
 
 ### Images of old projects
-<img src="https://yuhboieli.github.io/Carl.PNG" class="thumbnail" width="150" height="150">
+<img src="https://yuhboieli.github.io/Carl.PNG" class="thumbnail" width="150" height="150" />
 
 ### Jekyll Themes
 This theme is powered by [Jekyll](https://jekyllrb.com/)
